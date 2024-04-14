@@ -9,7 +9,7 @@ This project demonstrates hand tracking using the Mediapipe library and OpenCV. 
 ## Installation
 1. Clone this repository:
 """
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/MertColakk/HandTracking/
 """
 2. Install the required libraries using pip3:
 """
