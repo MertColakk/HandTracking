@@ -8,19 +8,19 @@ This project demonstrates hand tracking using the Mediapipe library and OpenCV. 
 
 ## Installation
 1. Clone this repository:
-"""
+```
 git clone https://github.com/MertColakk/HandTracking/
-"""
+```
 2. Install the required libraries using pip3:
-"""
+```
 pip3 install opencv-python mediapipe
-"""
+```
 
 ## Usage
 1. Run the `main.py` script:
-"""
+```
 python3 main.py
-"""
+```
 2. Position your hand in front of the camera.
 3. The program will detect your hand landmarks and overlay them on the video feed.
 4. Press 'q' to exit the program.
